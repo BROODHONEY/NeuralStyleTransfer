@@ -1,4 +1,4 @@
-#Neural Style Transfer App
+# Neural Style Transfer App
 
 Welcome to my **Neural Style Transfer App** — a Gradio-powered tool where you can blend the **content of one image** with the **artistic style of another** in seconds, right from your browser.
 
