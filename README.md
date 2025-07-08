@@ -18,11 +18,11 @@ It uses a deep learning model based on **VGG19** to generate an output image tha
 ### Style Image:
 ![istockphoto-543465140-612x612](https://github.com/user-attachments/assets/dca2761f-3bd2-46d3-a5d8-e3d0c3acfaf1)
 ### Output Image:
-![output](https://github.com/user-attachments/assets/efe0709c-5993-401a-83df-74d49396d522)
+![output (2)](https://github.com/user-attachments/assets/41b21b18-7393-44cd-a863-e2e90373e283)
 
 ---
 
-## 🛠️ How It Works
+## How It Works:
 
 1. Extracts features from both content and style images using VGG19.
 2. Computes a content loss (how different the output is from the content).
