@@ -36,7 +36,7 @@ It uses a deep learning model based on **VGG19** to generate an output image tha
 If you want to run it locally:
 
 ```bash
-git clone https://github.com/your-username/NeuralStyleTransfer.git
+git clone https://github.com/BROODHONEY/NeuralStyleTransfer.git
 cd NeuralStyleTransfer
 
 # Create and activate env
